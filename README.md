@@ -23,7 +23,8 @@ Imagine a phone call between 2 people. Sure, the PEOPLE are real, but what about
 about the phone call through OOP, we can model it too! A phone call has a
 `caller` and a `receiver`, a `duration`, and even a `cost_per_minute`. In the _real world_, it's not a real thing, but in OOP IT IS!
 
-In this tutorial, our goal is to create a simple `Book` class. We'll want it to have properties like a title, an author, a page count, etc. We'd also like the class to somehow be able to keep track of all of the genres of all of the Books we create. Finally, we'll give our books the total non-sensical ability to turn their own pages.
+In this tutorial, our goal is to create a simple `Book` class. We'll want it to have properties like a title, an author, a page count, etc. We'd also like the class to somehow be able to keep track of all of the genres of all of the Books we create. Finally, we'll give our books the total non-sensical 
+to turn their own pages.
 
 ### Set Up
 
